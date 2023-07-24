@@ -15,7 +15,7 @@ header {
 }
 
 hr {
-  background-color: #d7d0d0;
+  background-color: lightblue;
   box-shadow: inset 0px 10px 0px rgba(67, 67, 67, 0.5); 
 }
 
@@ -226,7 +226,7 @@ main {
 
 .xp, .ratio 
 {
-  color: #d8d8d8;
+  color: red;
 }
 
 .box-content
