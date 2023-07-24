@@ -202,7 +202,7 @@ main {
   height: 100%;
   width: 100%;
   margin-left: -54px;
-  background: #1a1a1a;
+  background: lightblue;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
