@@ -54,5 +54,5 @@ body {
 }
 
 #login-form input[type="submit"]:hover {
-  background-color: #555;
+  background-color: red;
 }
